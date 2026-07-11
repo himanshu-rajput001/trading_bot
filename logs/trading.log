@@ -1,0 +1,10 @@
+2026-07-11 18:02:49,321 - INFO - Trading bot started
+2026-07-11 19:51:28,969 - INFO - Market order request: BTCUSDT, BUY, 0.001
+2026-07-11 19:51:30,192 - ERROR - Market order failed: APIError(code=-2019): Margin is insufficient.
+2026-07-11 19:51:30,194 - ERROR - Order failed: APIError(code=-2019): Margin is insufficient.
+2026-07-11 19:53:15,318 - INFO - Market order request: BTCUSDT, BUY, 0.001
+2026-07-11 19:53:16,880 - ERROR - Market order failed: APIError(code=-2019): Margin is insufficient.
+2026-07-11 19:53:16,881 - ERROR - Order failed: APIError(code=-2019): Margin is insufficient.
+2026-07-11 19:54:06,081 - INFO - Limit order request: BTCUSDT, BUY, 0.001, price=50000.0
+2026-07-11 19:54:07,228 - ERROR - Limit order failed: APIError(code=-2019): Margin is insufficient.
+2026-07-11 19:54:07,231 - ERROR - Order failed: APIError(code=-2019): Margin is insufficient.
